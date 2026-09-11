@@ -105,14 +105,14 @@ export default function Home() {
                 ))}
               </div>
             </div>
-            <div className="absolute -bottom-6 -left-6 hidden rounded-md border border-al-gold/40 bg-al-bg px-5 py-4 shadow-[0_18px_40px_-18px_rgba(184,138,59,0.4)] sm:block">
-             <p className="font-display text-xs font-semibold uppercase tracking-widest text-al-gold">
-                 Ready to Build
-            </p>
-            <p className="mt-1 text-sm text-al-ink-soft">
-                 Your digital journey starts here.
-            </p>
-           </div>
+            <div className="absolute -bottom-4 left-0 hidden rounded-md border border-al-gold/40 bg-al-bg px-5 py-4 shadow-[0_18px_40px_-18px_rgba(184,138,59,0.4)] sm:block">
+  <p className="font-display text-xs font-semibold uppercase tracking-widest text-al-gold">
+    Ready to Build
+  </p>
+  <p className="mt-1 text-sm text-al-ink-soft">
+    Your digital journey starts here.
+  </p>
+</div>
           </div>
         </div>
       </section>
